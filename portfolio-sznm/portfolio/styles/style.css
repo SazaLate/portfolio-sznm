@@ -1,0 +1,11 @@
+p {
+    color: crimson;
+}
+
+a:hover{
+    color: darkturquoise;
+}
+
+image[src]{
+    width: 500px;
+}
