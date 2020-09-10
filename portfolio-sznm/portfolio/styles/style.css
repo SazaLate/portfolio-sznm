@@ -1,6 +1,6 @@
 html {
     font-size: 10px; /* px means 'pixels': the base font size is now 10 pixels high */
-    font-family: 'Noto Serif JP', serif; /*this should be the rest of the output you got from google fonts*/
+    font-family: 'Raleway', sans-serif; /*this should be the rest of the output you got from google fonts*/
     background-color: #99e1e5;
 }
 
@@ -9,12 +9,18 @@ h1 {
     text-align: center;
 }
 
-h2 {
+h6 {
     font-size: 20px;
     text-align: center;
 }
 
-p,li,a {
+p,a {
+    font-size: 16px;
+    line-height: 2;
+    letter-spacing: 1px;
+}
+
+li {
     font-size: 16px;
     line-height: 2;
     letter-spacing: 1px;
